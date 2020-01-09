@@ -1,0 +1,19 @@
+{
+  "name": "anyproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "honglimin",
+  "license": "ISC",
+  "dependencies": {
+    "anyproxy": "^4.1.2",
+    "mongoose": "^5.8.6",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.1"
+  }
+}
